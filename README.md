@@ -10,3 +10,6 @@ it is designed to be fast and lightweight while also modular and customisable
 2. run `cargo build`
 3. run `cargo run`
 4. run `./pepwm`
+
+# Plans and features
+currently, PepWM only launches a terminal on start, future versions will have xkbcommon for inputs
