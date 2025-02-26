@@ -6,7 +6,7 @@ it is designed to be fast and lightweight while also modular and customisable
 
 # Installing
 *from source*
-1. install Rust and xorg-server
+1. install Rust and xorg-server and Wayland
 2. run `cargo build`
 3. run `cargo run`
 4. run `./pepwm`
